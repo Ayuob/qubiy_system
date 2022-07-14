@@ -1,0 +1,1 @@
+" server=.;database=marketer_a; Integrated Security=false;user id=boka98;password=@boka092779050112092017@"
